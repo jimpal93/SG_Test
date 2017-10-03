@@ -1,0 +1,4 @@
+﻿  Test.cpp
+c:\users\jimmy\desktop\sg_test\sg_test\test\test\test.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Test.vcxproj -> C:\Users\Jimmy\Desktop\SG_TEST\SG_Test\Test\Debug\Test.exe
+  Test.vcxproj -> C:\Users\Jimmy\Desktop\SG_TEST\SG_Test\Test\Debug\Test.pdb (Partial PDB)
